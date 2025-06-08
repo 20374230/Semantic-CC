@@ -30,7 +30,7 @@ Note: If you have experience with PyTorch and have already installed it, you can
 **Step 1**: Create a virtual environment named `seg` and activate it.
 
 ```shell
-conda create -n ttp python=3.10 -y
+conda create -n seg python=3.10 -y
 conda activate seg
 ```
 
